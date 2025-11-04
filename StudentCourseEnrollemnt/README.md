@@ -64,7 +64,3 @@ A simple web-based app built using **Node.js**, **Express.js**, and **MySQL** fo
 | 🔍 **View Details** | ![ViewDetails](./ViewDetails.png) |
 
 ---
-
-## 📜 License
-
-MIT License © 2025
